@@ -1,0 +1,165 @@
+@media (max-width: 1445px){
+	.nav-text-ul{
+		float: none;
+	}
+	.nav-text{
+		margin-left: 30px;
+	}
+	.nav-text-main{
+		margin-left: 190px;
+	}
+	.phone-text{
+		display: block;
+		margin: 40px auto;
+		text-align: center;
+	}
+	.hm-right-block{
+		display: none;
+	}
+	.hm-left-block{
+		margin-left: 190px;
+	}
+	.hm-text{
+		font-size: 16px;
+	}
+	.none{
+		display: none;
+	}
+	.fix-abouts{
+		margin-left: 100px;
+	}
+	.block-our-books{
+		width: 442px;
+		margin-left: 100px;
+	}
+	.our-books-photo{
+		min-width: 420px;
+		width: 100%;
+		opacity: 1;
+	}
+	.estimation-center-block{
+		margin-left: 100px;
+	}
+	.partners-block-row{
+		margin-left: 100px;
+	}
+	.partners-bottom{
+		margin-right: 68px;
+	}
+	.footer-text-comment{
+		max-width: 350px;
+	}
+}
+@media (max-width: 992px){
+	.menu-mb{
+		display: block;
+	}
+	.none-mb{
+		display: none;
+	}
+	.menu-triger {
+	display: block;
+	width: 25px;
+	height: 17px;	
+	background: url(https://snipp.ru/demo/449/menu.png) 0 0 repeat;
+	position: absolute;
+	left: 15px;
+	top: 28px;
+}	
+.menu-close {
+	display: block;
+	width: 28px;
+	height: 28px;	
+	background: url(https://snipp.ru/demo/449/close.png) 0 0 repeat;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	z-index: 100;
+}
+.menu-popup {
+	display: none;	
+	background: #2c2e3e;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0;
+	box-sizing: border-box;
+	padding: 30px;
+	z-index: 9999;	
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.menu-popup ul {
+	margin: 0;
+	padding: 0;
+}
+.menu-popup li {
+	list-style: none;
+	margin: 10px 0;
+	padding: 0;
+}
+.menu-popup li a {
+	font-size: 18px;
+	font-family: "Arial";
+	color: rgb(255, 255, 255);
+	line-height: 1.4;	
+	text-decoration: none;
+}
+.body_pointer * {
+	cursor: pointer;
+}
+	.hm-left-block{
+		margin-left: 33px;
+	}
+	.fix-abouts{
+		margin: 0px auto;
+		width: 100%;
+	}
+	.abouts-paragraph-text{
+		text-align: center;
+	}
+	.abouts-text{
+		text-align: center;
+		max-width: 700px;
+	}
+	.abouts-info-mb-block{
+		width: 100%;
+	}
+	.abouts-info-paragraph{
+		text-align: center;
+		margin-top: 30px;
+	}
+	.abouts-info-block-icon{
+		float: left;
+		margin-top: 50px;
+		width: 50%;
+	}
+	.block-our-books{
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 60px;
+	}
+	.col-padding-none{
+		width: 50%;
+	}
+	.estimation{
+		width: 100%;
+	}
+	.estimation-center-block{
+		margin: 0 auto;
+	}
+	.estimation-data{
+		margin-left: 25px;
+	}
+	.partners-bottom{
+		margin-right: 60px;
+	}
+	.footer-block-info{
+		width: 100%;
+	}
+	.footer-text-comment{
+		margin: 0px;
+	}
+	.footer-button{
+		margin: 0px;
+	}
+}
